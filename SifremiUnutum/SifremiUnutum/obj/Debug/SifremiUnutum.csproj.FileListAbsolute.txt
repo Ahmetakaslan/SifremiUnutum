@@ -1,0 +1,13 @@
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\bin\Debug\SifremiUnutum.exe.config
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\bin\Debug\SifremiUnutum.exe
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\bin\Debug\SifremiUnutum.pdb
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\obj\Debug\SifremiUnutum.csproj.AssemblyReference.cache
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\obj\Debug\SifremiUnutum.csproj.SuggestedBindingRedirects.cache
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\obj\Debug\SifremiUnutum.HomePage.resources
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\obj\Debug\SifremiUnutum.Verify.resources
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\obj\Debug\SifremiUnutum.renovation.resources
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\obj\Debug\SifremiUnutum.Properties.Resources.resources
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\obj\Debug\SifremiUnutum.csproj.GenerateResource.cache
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\obj\Debug\SifremiUnutum.csproj.CoreCompileInputs.cache
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\obj\Debug\SifremiUnutum.exe
+C:\Users\akasl\OneDrive\Masaüstü\C# VİSUAL STUDİO\SifremiUnutum\SifremiUnutum\obj\Debug\SifremiUnutum.pdb
